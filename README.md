@@ -29,8 +29,9 @@
 
 ### About Me
 
+<p align="justify">
 Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at the **University of Sri Jayewardenepura** with a strong passion for **Business Analysis**. I enjoy exploring how organizations operate, understanding complex business processes, and translating intricate requirements into clear, actionable insights. Through my academic journey, I have developed strong analytical thinking, attention to detail, and effective communication skills. I am driven by solving real-world business challenges and continuously learning to make meaningful contributions to projects and organizations 🧐.
-
+</p>
 ---
 
 <div align="center">
