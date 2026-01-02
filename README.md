@@ -59,12 +59,12 @@ Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at t
 
 <div align="center">
   <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&layout=compact&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RidmiJayawardhana&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidmiJayawardhana&layout=compact&theme=tokyonight" />
   </p>
 
   <p align="center">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&theme=tokyonight" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidmiJayawardhana&theme=tokyonight" />
   </p>
 </div>
 
