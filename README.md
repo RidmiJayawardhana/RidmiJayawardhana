@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Ridmi%20Jayawardhana&fontSize=80&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=FullStack%20SaaS%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" width="100%" />
 </div>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=BasuruLokuge&label=Profile%20views&color=0047AB&style=plastic?" alt="basuru" height=25px, width=160px/> 
+</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ritik307/ritik307/master/assets/banner.gif" alt="Ritik's Banner" width="100%" />
 
