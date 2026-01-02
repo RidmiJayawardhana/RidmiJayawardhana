@@ -16,11 +16,11 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RidmiJayawardhana&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Visits" />
+  <img src="https://komarev.com/ghpvc/?username=RidmiJayawardhana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visits" />
 
-  <img src="https://img.shields.io/github/repos-personal/RidmiJayawardhana?label=REPOS&color=2ea44f&style=for-the-badge" alt="Repos" />
+ <!-- <img src="https://img.shields.io/github/repos-personal/RidmiJayawardhana?label=Repos&color=2ea44f&style=flat-square" alt="Repos" />
 
-  <img src="https://img.shields.io/github/stars/RidmiJayawardhana?style=for-the-badge&label=STARS&color=blueviolet" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Commits%20this%20year&query=%24.total&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DRidmiJayawardhana%26format%3Djson&style=flat-square" alt="Commits" /> -->
 </div>
 
 <br/>
