@@ -16,10 +16,6 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ritik307/ritik307/master/assets/banner.gif" alt="Ritik's Banner" width="100%" />
-
-  <br/>
-
   <img src="https://img.shields.io/badge/Visits-1194-brightgreen?style=flat-square" alt="Visits" />
   <img src="https://img.shields.io/badge/Repos-48-green?style=flat-square" alt="Repos" />
   <img src="https://img.shields.io/badge/Commits%20this%20month-70-success?style=flat-square" alt="Commits" />
