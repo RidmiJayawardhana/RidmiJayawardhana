@@ -36,7 +36,7 @@ Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at t
 
 ## 🛠️ Technology Stack
 
-### 🛠️ Technology Stack
+<div align="center">
 
 **Data Analysis & Visualization**
 <p align="left">
@@ -67,6 +67,8 @@ Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at t
   <img src="https://img.shields.io/badge/Scrum-024B5D?style=for-the-badge&logo=scrum&logoColor=white" />
   <img src="https://img.shields.io/badge/Kanban-FF9800?style=for-the-badge&logo=kanban&logoColor=white" />
 </p>
+
+</div>
 
 ## 📈 My GitHub Stats
 
