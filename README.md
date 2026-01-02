@@ -36,10 +36,8 @@ Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at t
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-
 **Data Analysis & Visualization**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
@@ -47,7 +45,7 @@ Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at t
 </p>
 
 **Project Management & Documentation**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
@@ -55,14 +53,14 @@ Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at t
 </p>
 
 **Design & Process Mapping**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
   <img src="https://img.shields.io/badge/Lucidchart-FF6E14?style=for-the-badge&logo=lucid&logoColor=white" />
 </p>
 
 **Methodologies**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Agile-4CAF50?style=for-the-badge&logo=agile&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-024B5D?style=for-the-badge&logo=scrum&logoColor=white" />
   <img src="https://img.shields.io/badge/Kanban-FF9800?style=for-the-badge&logo=kanban&logoColor=white" />
