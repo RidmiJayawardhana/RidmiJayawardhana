@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Ridmi%20Jayawardhana&fontSize=80&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=FullStack%20SaaS%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=BasuruLokuge&label=Profile%20views&color=0047AB&style=plastic?" alt="basuru" height=25px, width=160px/> 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Engineer;Python+Developer;Tech+Enthusiast"></a>
 </p>
 
 <div align="center">
