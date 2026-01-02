@@ -52,3 +52,7 @@ I'm a 2nd year student pursuing Master's in Computer Applications 🎓 from **Gu
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&theme=tokyonight" />
   </p>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%" />
+</div>
