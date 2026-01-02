@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="[https://linkedin.com/in/YOUR_USERNAME_HERE](https://www.linkedin.com/in/ridmi-jayawardhana-6a9579274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="blank">
+  <a href="https://www.linkedin.com/in/ridmi-jayawardhana-6a9579274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:jayawardhanaridmi0125@gmail.com">
