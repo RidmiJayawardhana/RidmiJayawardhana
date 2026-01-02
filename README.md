@@ -2,13 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Ridmi%20Jayawardhana&fontSize=80&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=Business%20Analyst%20%7C%20Project%20Manager&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME_HERE" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME_HERE" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Business+Analyst;Creative+Designer;Tech+Enthusiast"></a>
