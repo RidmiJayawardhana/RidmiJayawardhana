@@ -27,15 +27,16 @@
 
 <br/>
 
-### About Me
+## 👨‍💻 About Me
 
 <p align="justify">
 Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at the <code> University of Sri Jayewardenepura </code> with a strong passion for <code> Business Analysis </code>. I enjoy exploring how organizations operate, understanding complex business processes, and translating intricate requirements into clear, actionable insights 💻. Through my academic journey, I have developed strong analytical thinking, attention to detail, and effective communication skills. I am driven by solving real-world business challenges and continuously learning to make meaningful contributions to projects and organizations 🧐.
 </p>
----
+
+
+## 🛠️ Technology Stack
 
 <div align="center">
-  ### Technology Stack <img src="https://media.giphy.com/media/WUlpy2x4FP7XWFhQRR/giphy.gif" width="30">
   
   <p>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -54,11 +55,9 @@ Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at t
   </p>
 </div>
 
----
+## 📈 My GitHub Stats
 
 <div align="center">
-  ### My Github Stats <img src="https://media.giphy.com/media/unQbbGVFfL-XQ-29Gf/giphy.gif" width="30">
-
   <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=tokyonight" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&layout=compact&theme=tokyonight" />
