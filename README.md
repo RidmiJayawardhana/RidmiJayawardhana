@@ -19,7 +19,8 @@
 <br/>
 
 ### About Me
-I'm a 2nd year student pursuing Master's in Computer Applications 🎓 from **Guru Gobind Singh Indraprastha University** 🏢. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨‍💻. I'm currently into **Web Development** 🕸️ and working on my **Data Structures and Algorithms** skills 🧐.
+
+Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at the **University of Sri Jayewardenepura** with a strong passion for **Business Analysis**. I enjoy exploring how organizations operate, understanding complex business processes, and translating intricate requirements into clear, actionable insights. Through my academic journey, I have developed strong analytical thinking, attention to detail, and effective communication skills. I am driven by solving real-world business challenges and continuously learning to make meaningful contributions to projects and organizations 🧐.
 
 ---
 
