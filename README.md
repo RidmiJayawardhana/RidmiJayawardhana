@@ -16,9 +16,11 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visits-1194-brightgreen?style=flat-square" alt="Visits" />
-  <img src="https://img.shields.io/badge/Repos-48-green?style=flat-square" alt="Repos" />
-  <img src="https://img.shields.io/badge/Commits%20this%20month-70-success?style=flat-square" alt="Commits" />
+  <img src="https://komarev.com/ghpvc/?username=RidmiJayawardhana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visits" />
+
+  <img src="https://img.shields.io/github/repos-personal/RidmiJayawardhana?label=Repos&color=2ea44f&style=flat-square" alt="Repos" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Commits%20this%20year&query=%24.total&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DRidmiJayawardhana%26format%3Djson&style=flat-square" alt="Commits" />
 </div>
 
 <br/>
