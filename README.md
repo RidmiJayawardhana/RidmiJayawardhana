@@ -73,7 +73,7 @@ Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at t
   </p>
 
   <p align="center">
-    <img width="50%" src="https://streak-stats.demolab.com/?user=RidmiJayawardhana&theme=tokyonight&hide_border=true" alt="Ridmi's GitHub Streak" />
+    <img width="65%" src="https://streak-stats.demolab.com/?user=RidmiJayawardhana&theme=tokyonight&hide_border=true" alt="Ridmi's GitHub Streak" />
   </p>
 </div>
 
