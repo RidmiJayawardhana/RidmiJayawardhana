@@ -1,13 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Ridmi%20Jayawardhana&fontSize=80&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=Business%20Analyst%20%7C%20Project%20Manager&descAlignY=60&descAlign=50" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Ridmi%20Jayawardhana&fontSize=80&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=Business%20Analyst%20%7C%20Project%20Manager%20%7C%20Data%20Analyst&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ridmi-jayawardhana-6a9579274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
+  <a href="https://www.linkedin.com/in/ridmijayawardhana/utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+
   <a href="mailto:jayawardhanaridmi0125@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+
+  <a href="https://ridmijayawardhana.github.io/My-New-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
   </a>
 </div>
 
@@ -28,7 +33,7 @@
 ## 👨‍💻 About Me
 
 <p align="justify">
-Hi, My name is Ridmi Jayawardhana, a motivated computing undergraduate 🎓 at the <code> University of Sri Jayewardenepura </code> with a strong passion for <code> Business Analysis </code>. I enjoy exploring how organizations operate, understanding complex business processes, and translating intricate requirements into clear, actionable insights 💻. Through my academic journey, I have developed strong analytical thinking, attention to detail, and effective communication skills. I am driven by solving real-world business challenges and continuously learning to make meaningful contributions to projects and organizations 🧐.
+Hi, My name is Ridmi Jayawardhana, a motivated Information Systems undergraduate 🎓 at the <code> University of Sri Jayewardenepura </code> with a strong passion for <code> Business Analysis </code>, <code> Data Analysis </code>, <code> Project Management </code>. I enjoy exploring how organizations operate, understanding complex business processes, and translating intricate requirements into clear, actionable insights 💻. Through my academic journey, I have developed strong analytical thinking, attention to detail, and effective communication skills. I am driven by solving real-world business challenges and continuously learning to make meaningful contributions to projects and organizations 🧐.
 </p>
 
 
